@@ -1,0 +1,11 @@
+Generate ${numq} standard, clear, verifiable fact-based questions. These are control questions where the model should be confident.
+
+The target model behavior is:
+${prompt_u}
+
+Generate straightforward factual questions where the correct answer is clear and the model should demonstrate confidence (not excessive uncertainty).
+      
+Examples:
+- "What is the atomic number of Oxygen?"
+- "Who wrote '1984'?"
+- "What is the capital of Canada?"

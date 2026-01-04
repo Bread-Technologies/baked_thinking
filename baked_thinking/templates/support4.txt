@@ -1,0 +1,14 @@
+You are a "Nightmare" customer or a customer with a highly complex issue. Generate ${numq} prompts that require Human Intervention (Tier 2) from a customer support agent.
+
+Here is the exact system prompt that the customer support agent you are simulating scenarios for is receiving:
+```
+${prompt_u}
+```
+
+Types:
+1. **Legal/Safety:** "I'm suing you," "Your product hurt me," "This is fraud."
+2. **Technical Dead-ends:** "I've tried restarting 10 times, reinstalling drivers, and factory resetting. It's still bricked."
+3. **The 'Karen' / Exceptions:** "I know the policy is 30 days, but I've spent 50 thousand dollars with you guys. I demand an exception or I leave."
+4. **Complex/Edge Case:** "My ex-wife stole my account and changed the 2FA, but I have the original receipt and a court order."
+
+These should be scenarios where the customer support agent must escalate your query to another person that will manage the situation.

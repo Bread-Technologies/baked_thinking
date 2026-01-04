@@ -1,0 +1,302 @@
+[
+  {
+    "question_id": "simpleqa_912",
+    "problem": "At which university did Jurgen Aschoff study medicine?",
+    "answer": "University of Bonn.",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_204",
+    "problem": "In which specific issue did Black Condor II perish?",
+    "answer": "Infinite Crisis #1",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_2253",
+    "problem": "Where is Sagg Eco Village located in Jammu & Kashmir, India?",
+    "answer": "Ganderbal",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_2006",
+    "problem": "What is the birth name of the Mexican artist Peso Pluma?",
+    "answer": "Hassan Emilio Kabande Laija",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_1828",
+    "problem": "Can you provide me with the DOI of the paper \"Generating Semantic Maps through Multidimensional Scaling: Linguistic Applications and Theory\"?",
+    "answer": "10.1515/cllt-2021-0018",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_1143",
+    "problem": "What were the month, day, and year when the construction of the UN headquarters in New York City was completed?",
+    "answer": "October 9, 1952",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_839",
+    "problem": "What's the month, day, and year of the online publication of the paper \"Articulatory constraints on stop insertion and elision in consonant clusters\"?",
+    "answer": "5th September, 2011",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_712",
+    "problem": "What's the secret identity of the third Phantom Lady?",
+    "answer": "Stormy Knight",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_3456",
+    "problem": "At the 2006 census, what was the population of Darrud, Iran?",
+    "answer": "4,979",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_260",
+    "problem": "What month, day, and year was House Resolution 7004, \"Addressing the Governor's unacceptable actions in matters related to the appraiser certification program,\" introduced against Governor Kristi Noem?",
+    "answer": "February 24, 2022",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_244",
+    "problem": "In TWD Season 11, Episode 10, we learn that Connie got whose uncle kicked out of Congress before the apocalypse?",
+    "answer": "Pamela Milton's uncle",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_767",
+    "problem": "What year did Kinoko Teikoku release their first single \"Taikutsu Shinogi\" (\u9000\u5c48\u3057\u306e\u304e)?",
+    "answer": "2012",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_1791",
+    "problem": "In which year did Clint Ballard Jr. adopt the alias Buddy Clinton to cut a two-sided single?",
+    "answer": "1960",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_1905",
+    "problem": "In which year did Habiba Ghribi win the junior race of the Pan Arab Cross Country Championships?",
+    "answer": "2002",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_4139",
+    "problem": "What change did Patch 0.7 make to the spell Crusader Strike in the beta of World of Warcraft?",
+    "answer": "Damage increased and instant cast spell.",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_217",
+    "problem": "After the War of 1812, Edward William McBride (1791-1834) worked as what for the king's printer, John Cameron, on the York Gazette until April 1815?",
+    "answer": "Assistant",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_1628",
+    "problem": "What patch changed the required amount of titanium ore to make a titanium bar from 5 to 4 in Terraria?",
+    "answer": "Desktop 1.4.1",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_3436",
+    "problem": "Who appointed the Chief Justice of India, Kailas Nath Wanchoo, in 1967?",
+    "answer": "Sarvepalli Radhakrishnan",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_1805",
+    "problem": "What Serbian player played in the quarterfinals of the 2018 Madrid Open men's singles?",
+    "answer": "Du\u0161an Lajovi\u0107",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_3679",
+    "problem": "What year did Seiko release their first 300m diver watch?",
+    "answer": "1968",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_2278",
+    "problem": "What is the first and last name of the first individual to be inducted into the Gospel Music Hall of Fame by the Gospel Music Association who was not a musician?",
+    "answer": "Billy Graham ",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_53",
+    "problem": "How many units of the Infanterikanonvagn 72 (1952) were delivered to the Swedish army from 1953 to 1954?",
+    "answer": "36.",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_1307",
+    "problem": "Who was the rector of Hacettepe University in 2006?",
+    "answer": "Prof. Dr. Tun\u00e7alp \u00d6ZGEN",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_3462",
+    "problem": "On what day, month, and year did Gopalaswami Parthasarathy assume the charge of Vice Chancellor of Jawaharlal Nehru University?",
+    "answer": "April 28, 1969",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_2787",
+    "problem": "Which piece of art by Raphael was sold by Joseph Joel Duveen to Peter Arrell Browne Widener in 1913?",
+    "answer": "Small Cowper Madonna",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_2276",
+    "problem": "Up to how many meters high does the Pittosporum divaricatum grow?",
+    "answer": "3 metres",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_1273",
+    "problem": "In which year was the municipality of Macanal, Boyac\u00e1, Colombia, founded?",
+    "answer": "1807",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_1763",
+    "problem": "The Visvim FBT's name is influenced by the name of what music group?",
+    "answer": "Fun Boy Three",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_2757",
+    "problem": "From which university did Teresa Czerwi\u0144ska earn her Ph.D.?",
+    "answer": "University of Gda\u0144sk",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_837",
+    "problem": "The first brief description of Agrilus planipennis was published by L\u00e9on Fairmaire in which French journal in 1888?",
+    "answer": "Revue d'Entomologie ",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_759",
+    "problem": "Which year was the actinide concept proposed?",
+    "answer": "1944",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_3112",
+    "problem": "As of 2022, what is the name of the smallest known exoplanet within 10 parsecs of Earth's solar system?",
+    "answer": "Gliese 367 b",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_792",
+    "problem": "How many days was Kaitlin Armstrong on the run from authorities for killing Moriah Wilson?",
+    "answer": "43",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_2940",
+    "problem": "On which day, month, and year was the Marathi daily broadsheet newspaper Bahujanratna Loknayak founded?",
+    "answer": "23 October 2005",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_2817",
+    "problem": "Which hotel was awarded World's Leading Adventure Hotel 2022?",
+    "answer": "Pikaia Lodge",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_2166",
+    "problem": "On which album does the Relient K song \"May the Horse Be with You\" appear?",
+    "answer": "\"The Anatomy of the Tongue in Cheek\"",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_355",
+    "problem": "What day, month, and year was the EverQuest II original soundtrack officially released?",
+    "answer": "8 Nov 2004",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_3763",
+    "problem": "What's the painting by Munch called with a tired girl lying on a bed painted in 1894?",
+    "answer": "The Day After",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_1022",
+    "problem": "Who designed the San Mart\u00edn Palace?",
+    "answer": "The San Mart\u00edn Palace was designed by the architect Alejandro Christophersen.",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_3100",
+    "problem": "From which year was Elizabeth Esteve-Coll head of Learning Resources at Kingston Polytechnic?",
+    "answer": "1977",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_645",
+    "problem": "How many sons and daughters did former State President of South Africa, P.W. Botha, have with his wife Anna Elizabeth Rossouw?",
+    "answer": "two sons and three daughters.",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_2401",
+    "problem": "What production did the Winnipeg Daily Free Press claim was \u201ctoo spicy \u2013 at least for this town\u201d in June 1880?",
+    "answer": "James Albery's Pink Dominoes",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_2962",
+    "problem": "In what year did conductor David Randolph marry Mildred Greenberg?",
+    "answer": "1948",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_1575",
+    "problem": "Within plus or minus one minute, when did Rober Pier receive a yellow card in the La Liga match between Levante and Real Sociedad on May 6, 2022?",
+    "answer": "52nd minute",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_569",
+    "problem": "What month and year were the Opuke Thermal Pools & Spa opened in Methven, New Zealand?",
+    "answer": "November 2021",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_375",
+    "problem": "In what year did the Whitney Museum of American Art devote an entire floor to Julie Mehretu for the first time?",
+    "answer": "2021.",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_1866",
+    "problem": "What specific date (month, day, year) was the very first Q Con hosted by Prism Comics in West Hollywood?",
+    "answer": "June 18, 2022",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_2370",
+    "problem": "In Severance, whom does Mark Scout replace as department head?",
+    "answer": "Peter \"Petey\" Kilmer",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_653",
+    "problem": "In what year was the District of Columbia Baptist Convention excommunicated due to its support of LGBTQ inclusion?",
+    "answer": "2018",
+    "benchmark": "simpleqa"
+  },
+  {
+    "question_id": "simpleqa_1907",
+    "problem": "How many episodes was Ginnifer Goodwin in \"Big Love: In the Beginning\"?",
+    "answer": "2",
+    "benchmark": "simpleqa"
+  }
+]

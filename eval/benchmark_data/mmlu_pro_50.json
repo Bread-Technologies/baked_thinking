@@ -1,0 +1,936 @@
+[
+  {
+    "question_id": "mmlu_math_1",
+    "question": "Find the number that makes the statement 2 over 9 = 14 over ? true.",
+    "options": [
+      "15",
+      "50",
+      "18",
+      "36",
+      "28",
+      "14",
+      "63",
+      "16",
+      "32",
+      "45"
+    ],
+    "answer": "G",
+    "subject": "math",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_math_2",
+    "question": "A correlation of 0.6 indicates that the percentage of variation in y that is explained by the variation in x is how many times the percentage indicated by a correlation of 0.3?",
+    "options": [
+      "2",
+      "4",
+      "8",
+      "6",
+      "2.5",
+      "3",
+      "1.5",
+      "0.5",
+      "0.2",
+      "5"
+    ],
+    "answer": "B",
+    "subject": "math",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_math_3",
+    "question": "Suppose that $f(x)$ is a polynomial that has degree $6$ and $g(x)$ is a polynomial that has degree $3$. If $h(x)$ is also a polynomial such that $f(g(x)) + g(h(x)) + h(f(x))$ is a polynomial of degree $36$, then what is the degree of the polynomial $h$?",
+    "options": [
+      "3",
+      "21",
+      "6",
+      "9",
+      "30",
+      "72",
+      "12",
+      "15",
+      "24",
+      "18"
+    ],
+    "answer": "C",
+    "subject": "math",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_math_4",
+    "question": "Find the mean of the set of data 18, 9, 9, 10, 11, 14, 30, 19.",
+    "options": [
+      "11",
+      "18",
+      "19",
+      "15",
+      "10",
+      "30",
+      "9",
+      "16",
+      "20",
+      "14"
+    ],
+    "answer": "D",
+    "subject": "math",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_math_5",
+    "question": "Using n=8 approximate the value of $\\int_{0}^4 cos(1 + \\sqrt{x}) dx$ using the Simpson's rule.",
+    "options": [
+      "2.71828183",
+      "-1.41421356",
+      "0.98765432",
+      "3.14159265",
+      "1.57079633",
+      "-3.14159265",
+      "-2.47160136",
+      "1.23456789",
+      "-0.78539816",
+      "0.69314718"
+    ],
+    "answer": "G",
+    "subject": "math",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_math_6",
+    "question": "There are 7 desks arranged in a row in Mr. Thompson\u2019s classroom. Hector sits 2 seats to the right of Kim. Tonya sits 3 seats to the right of Hector. How many seats to the left of Tonya does Kim sit?",
+    "options": [
+      "6",
+      "1",
+      "7",
+      "2",
+      "9",
+      "12",
+      "8",
+      "3",
+      "5",
+      "4"
+    ],
+    "answer": "I",
+    "subject": "math",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_math_7",
+    "question": "A function f(x) is given by f(0)=3, f(2)=7, f(4)=11, f(6)=9, f(8)=3. Approximate the area under the curve y=f(x) between x=0 and x=8 using Trapezoidal rule with n=4 subintervals.",
+    "options": [
+      "85.0",
+      "60.0",
+      "65.0",
+      "45.0",
+      "55.0",
+      "90.0",
+      "80.0",
+      "50.0",
+      "75.0",
+      "70.0"
+    ],
+    "answer": "B",
+    "subject": "math",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_math_8",
+    "question": "If A = (1, 2, 3, 4). Let ~= {(1, 2), (1, 3), (4, 2)}. Then ~ is",
+    "options": [
+      "partial order relation",
+      "transitive",
+      "equivalence relation",
+      "symmetric",
+      "not anti-symmetric",
+      "reflexive"
+    ],
+    "answer": "B",
+    "subject": "math",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_math_9",
+    "question": "Let x_1 = 1 and x_(n+1) = sqrt(3+2x_n) for all positive integers n. If it is assumed that {x_n} converges, then lim x_n =",
+    "options": [
+      "sqrt(5)",
+      "e",
+      "3",
+      "5",
+      "1",
+      "0",
+      "sqrt(2)",
+      "2",
+      "sqrt(7)",
+      "sqrt(3)"
+    ],
+    "answer": "C",
+    "subject": "math",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_math_10",
+    "question": "In how many ways can 7 people be seated at 5 identical round tables? Each table must have at least 1 person seated.",
+    "options": [
+      "200",
+      "210",
+      "250",
+      "150",
+      "300",
+      "120",
+      "135",
+      "225",
+      "175",
+      "160"
+    ],
+    "answer": "I",
+    "subject": "math",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_math_11",
+    "question": "The surface area, S, of a right rectangular prism with length l, width w, and height h can be found using the formula S = 2(lw+ wh + hl). What is the surface area, in square inches, of a prism with a length of 12 inches, a width of 9 inches, and a height of 2 inches?",
+    "options": [
+      "300",
+      "92",
+      "150",
+      "258",
+      "276",
+      "210",
+      "225",
+      "268",
+      "320",
+      "180"
+    ],
+    "answer": "A",
+    "subject": "math",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_math_12",
+    "question": "For the regression line, which of the following statements about residuals is true?",
+    "options": [
+      "The sum of the residuals is always one.",
+      "If the correlation is 0, there will be a distinct pattern in the residual plot.",
+      "The larger the residuals, the better the linear model.",
+      "The residuals are always negative.",
+      "If the correlation is 1, there will be a distinct pattern in the residual plot.",
+      "The residual plot will always be a straight line.",
+      "Influential scores have large residuals.",
+      "The mean of the residuals is always zero.",
+      "If the linear model is good, the number of positive residuals will be the same as the number of negative residuals.",
+      "The residuals can never be zero."
+    ],
+    "answer": "H",
+    "subject": "math",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_math_13",
+    "question": "Alex needs to borrow $\\$10,\\!000$ from the bank. The bank gives him two options. 1. A ten-year loan with an annual interest rate of $10\\%$ compounded quarterly, with the condition that at the end of 5 years, Alex must make a payment equal to half of what he owes. The other half continues to accrue interest, and at the end of the ten years, Alex will pay off the remaining balance. 2. A ten-year loan with a simple annual interest rate of $12\\%$, with just one lump-sum payment at the end of the ten years. Find the positive difference between the total amounts Alex has to pay back under the two schemes. Round your answer to the nearest dollar.",
+    "options": [
+      "381",
+      "383",
+      "384",
+      "382",
+      "385",
+      "16398",
+      "16399",
+      "380",
+      "16400",
+      "16401"
+    ],
+    "answer": "D",
+    "subject": "math",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_math_14",
+    "question": "If the parabola $y_1 = x^2 + 2x + 7$ and the line $y_2 = 6x + b$ intersect at only one point, what is the value of $b$?",
+    "options": [
+      "10",
+      "5",
+      "3",
+      "12",
+      "4",
+      "6",
+      "8",
+      "7",
+      "2",
+      "9"
+    ],
+    "answer": "C",
+    "subject": "math",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_math_15",
+    "question": "The dye dilution method is used to measure cardiac output with $6 \\mathrm{mg}$ of dye. The dye concentrations, in $\\mathrm{mg} / \\mathrm{L}$, are modeled by $c(t)=20 t e^{-0.6 t}, 0 \\leqslant t \\leqslant 10$, where $t$ is measured in seconds. Find the cardiac output.",
+    "options": [
+      "7.5 $\\mathrm{L}/\\mathrm{min}$",
+      "4.2 $\\mathrm{L}/\\mathrm{min}$",
+      " 6.6 $\\mathrm{L}/\\mathrm{min}$",
+      "3.3 $\\mathrm{L}/\\mathrm{min}$",
+      "8.0 $\\mathrm{L}/\\mathrm{min}$",
+      "4.8 $\\mathrm{L}/\\mathrm{min}$",
+      "5.0 $\\mathrm{L}/\\mathrm{min}$",
+      "5.4 $\\mathrm{L}/\\mathrm{min}$",
+      "9.5 $\\mathrm{L}/\\mathrm{min}$",
+      "7.2 $\\mathrm{L}/\\mathrm{min}$"
+    ],
+    "answer": "C",
+    "subject": "math",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_math_16",
+    "question": "Estimate 153 + 44. The sum is between which numbers?",
+    "options": [
+      "1,100 and 1,299",
+      "900 and 1,099",
+      "50 and 99",
+      "100 and 299",
+      "400 and 599",
+      "500 and 699",
+      "700 and 899",
+      "300 and 499",
+      "200 and 399",
+      "600 and 799"
+    ],
+    "answer": "D",
+    "subject": "math",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_math_17",
+    "question": "A sequence of three real numbers forms an arithmetic progression with a first term of 9. If 2 is added to the second term and 20 is added to the third term, the three resulting numbers form a geometric progression. What is the smallest possible value for the third term of the geometric progression?",
+    "options": [
+      "12",
+      "16",
+      "2",
+      "7",
+      "5",
+      "3",
+      "-1",
+      "0",
+      "1",
+      "9"
+    ],
+    "answer": "I",
+    "subject": "math",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_math_18",
+    "question": "Compute the are of that part of the helicoid z = arctan(y/x) which lies in the first octant between the cylinder $x^2+y^2 = 1^2$ and $x^2+y^2 = 2^2$.",
+    "options": [
+      "3.764",
+      "2.718",
+      "2.843",
+      "1.732",
+      "4.000",
+      "3.576",
+      "2.456",
+      "1.567",
+      "3.142",
+      "2.000"
+    ],
+    "answer": "C",
+    "subject": "math",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_math_19",
+    "question": "In Canada in 2014, the average wholesale price of soybeans was $0.24 per pound. In 2015, the average wholesale price of soybeans was $0.16 per pound. If a retailer purchased 20,000 pounds of soybeans in 2014 and in 2015, what was the percent change in the retailer\u2019s expenses from 2014 to 2015?",
+    "options": [
+      "\u201325%",
+      "33%",
+      "\u201333%",
+      "\u20138%",
+      "16%",
+      "8%",
+      "\u201320%",
+      "\u201350%",
+      "25%",
+      "0%"
+    ],
+    "answer": "C",
+    "subject": "math",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_math_20",
+    "question": "Given that $a$ and $b$ are real numbers such that $-3\\leq a\\leq1$ and $-2\\leq b\\leq 4$, and values for $a$ and $b$ are chosen at random, what is the probability that the product $a\\cdot b$ is positive? Express your answer as a common fraction.",
+    "options": [
+      "\\frac{7}{12}",
+      "\\frac{5}{11}",
+      "\\frac{5}{10}",
+      "\\frac{6}{11}",
+      "\\frac{5}{12}",
+      "\\frac{7}{11}",
+      "\\frac{5}{17}",
+      "\\frac{4}{11}",
+      "\\frac{6}{12}",
+      "\\frac{4}{12}"
+    ],
+    "answer": "E",
+    "subject": "math",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_physics_1",
+    "question": "Suppose that a two-stage rocket starts from rest with a mass m_1. At burn-out of the first stage engine, the mass is m_2. If the exhaust velocity is v_0, the rocket velocity after the first stage engines quit is v = v_0ln(m_1 / m_2). Before the second stage engines are ignited, part of the mass m_2 is discarded - the mass of the first stage engines. The mass of the second stage ism_Awhen the en-gines start andm_Bwhen the engines shut down. What is the terminal velocity of the second stage?",
+    "options": [
+      "v = v_0 ln [(m_1 - m_2) / (m_A * m_B)]",
+      "v = v_0 In [(m_1 * m_2)(m_A*m_B)]",
+      "v = v_0 ln [(m_1^2 / m_2) * (m_A / m_B)]",
+      "v = v_0 ln [(m_1 * m_2) / (m_A + m_B)]",
+      "v = v_0 ln [(m_1 / m_2) + (m_A/m_B)]",
+      "v = v_0 In [(m_1 / m_2)(m_A+m_B)]",
+      "v = v_0 ln [(m_1 + m_2) * (m_A - m_B)]",
+      "v = v_0 ln [m_1 / (m_2 + m_A + m_B)]",
+      "v = v_0 In [(m_1 / m_2)(m_A/m_B)]",
+      "v = v_0 ln [(m_1 + m_2) / (m_A * m_B)]"
+    ],
+    "answer": "I",
+    "subject": "physics",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_physics_2",
+    "question": "A steel ball of velocity $5 \\mathrm{~m} / \\mathrm{s}$ strikes a smooth, heavy steel plate at an angle of $30^{\\circ}$ from the normal. If the coefficient of restitution is 0.8 , at what velocity does the steel ball bounce off the plate?",
+    "options": [
+      "$4.8$$\\mathrm{~m} / \\mathrm{s}$",
+      "$3.8 \\mathrm{~m} / \\mathrm{s}$",
+      " $4.3$$\\mathrm{~m} / \\mathrm{s}$ ",
+      "$4.0 \\mathrm{~m} / \\mathrm{s}$",
+      "$3.5$$\\mathrm{~m} / \\mathrm{s}$",
+      "$4.6 \\mathrm{~m} / \\mathrm{s}$",
+      "$2.5 \\mathrm{~m} / \\mathrm{s}$",
+      "$5.0$$\\mathrm{~m} / \\mathrm{s}$",
+      "$3.2 \\mathrm{~m} / \\mathrm{s}$",
+      "$2.8 \\mathrm{~m} / \\mathrm{s}$"
+    ],
+    "answer": "C",
+    "subject": "physics",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_physics_3",
+    "question": "The equation E = mc^2 indicates that energy",
+    "options": [
+      "and mass are closely related.",
+      "is equal to the square of the speed of light.",
+      "equals moving mass.",
+      "is fundamentally different than mass.",
+      "equals mass divided by the speed of light squared.",
+      "and mass are not related at all.",
+      "equals the sum of mass and the speed of light squared.",
+      "is inversely proportional to mass.",
+      "equals mass moving at the speed of light squared.",
+      "equals mass multiplied by the speed of light."
+    ],
+    "answer": "A",
+    "subject": "physics",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_physics_4",
+    "question": "How much energy is required to break up a C^12 nucleus into three \\alpha particles?",
+    "options": [
+      "92.15 MeV",
+      "13.6 eV",
+      "25.711 MeV",
+      "0.007 809 AMU",
+      "0.5 MeV",
+      "3.6 MeV per \\alpha particle",
+      "28.30 MeV",
+      "12.007809 AMU",
+      "931.481MeV/AMU",
+      "7.274MeV"
+    ],
+    "answer": "J",
+    "subject": "physics",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_physics_5",
+    "question": "What is thegyrofrequencyof an electron in a magnetic field of 10 kilogauss, or 1 \u00d7 10^4 gauss? (A field of 10 to 15 kilogauss is typical of ordinary laboratory iron core electromagnets.)",
+    "options": [
+      "2.1 \u00d7 10^10 cps",
+      "1.2 \u00d7 10^10 cps",
+      "1.5 \u00d7 10^10 cps",
+      "1.8 \u00d7 10^10 cps",
+      "3.5 \u00d7 10^10 cps",
+      "5.5 \u00d7 10^10 cps",
+      "3.2 \u00d7 10^10 cps",
+      "4.0 \u00d7 10^10 cps",
+      "2.5 \u00d7 10^10 cps",
+      "2.8 \u00d7 10^10 cps"
+    ],
+    "answer": "J",
+    "subject": "physics",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_physics_6",
+    "question": "An object 5 cm in diameter is 33.3 cm from a converging lens of 8diopters. Calculate the position of the image from the lens and its size.",
+    "options": [
+      "40 cm, 1.5 cm",
+      "35 cm, 0.5 cm",
+      "20 cm, 3 cm",
+      "25 cm, 2 cm",
+      "12 cm, 6 cm",
+      "30 cm, 1 cm",
+      "24 cm, 3.5 cm",
+      "18 cm, 2.5 cm",
+      "10 cm, 5 cm",
+      "15 cm, 4 cm"
+    ],
+    "answer": "C",
+    "subject": "physics",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_physics_7",
+    "question": "While riding a multispeed bicycle, the rider can select the radius of the rear sprocket that is fixed to the rear axle. The front sprocket of a bicycle has radius 12.0 cm. If the angular speed of the front sprocket is 0.6 rev/s, what is the radius (in cm) of the rear sprocket for which the tangential speed of a point on the rim of the rear wheel will be 5 m/s? The rear wheel has radius 0.330 m.",
+    "options": [
+      "3.50",
+      "2.00",
+      "4.25",
+      "2.99",
+      "3.25",
+      "4.50",
+      "5.00",
+      "2.50",
+      "3.99",
+      "1.75"
+    ],
+    "answer": "D",
+    "subject": "physics",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_physics_8",
+    "question": "Consider a system of N particles each of which can exist in only two energy levels + \\epsilon and - \\epsilon. If the probability of occupying an energy level at temperature T is given by P_E = e- E/KT where E is the energy of the level, and K is Boltzmann's constant, calculate the internal energy of the system.",
+    "options": [
+      "-2N\\epsilon\\cosh(\\epsilon/KT)",
+      "2N\\epsilon\\sinh(\\epsilon/KT)",
+      "-\\epsilonNtanh(\\epsilon/KT)",
+      "-\\epsilonN",
+      "N\\epsilon^2/KT",
+      "0",
+      "\\epsilonN(1 - e^{-\\epsilon/KT})",
+      "\\epsilonNtanh(\\epsilon/KT)",
+      "\\epsilonNcoth(\\epsilon/KT)",
+      "N\\epsilon(1 - 2e^{-2\\epsilon/KT})"
+    ],
+    "answer": "C",
+    "subject": "physics",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_physics_9",
+    "question": "You drive a beat-up pickup truck along a straight road for $8.4 \\mathrm{~km}$ at $70 \\mathrm{~km} / \\mathrm{h}$, at which point the truck runs out of gasoline and stops. Over the next $30 \\mathrm{~min}$, you walk another $2.0 \\mathrm{~km}$ farther along the road to a gasoline station.\nWhat is your overall displacement from the beginning of your drive to your arrival at the station?",
+    "options": [
+      "9.4 km",
+      "10.0 km",
+      "12.0 km",
+      " 10.4 km",
+      "11.4 km",
+      "7.4 km",
+      "6.4 km",
+      "12.4 km",
+      "8.4 km",
+      "13.4 km"
+    ],
+    "answer": "D",
+    "subject": "physics",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_physics_10",
+    "question": "A net force F_A acts on object A, and a net force F_B acts on object B. The mass of object B is twice the mass of object A, and the acceleration of object B is twice that of object A. Which of the following is true of forces F_A and F_B?",
+    "options": [
+      "F_B = 6F_A",
+      "F_B = 3F_A",
+      "F_B = 4F_A",
+      "F_B = F_A",
+      "F_B = 1/2 F_A",
+      "F_B = 8F_A",
+      "F_B = 3/2 F_A",
+      "F_B = 5F_A",
+      "F_B = 2F_A",
+      "F_B = 1/4 F_A"
+    ],
+    "answer": "C",
+    "subject": "physics",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_physics_11",
+    "question": "A 2.4 kilowatt generator delivers 10 amperes. At what potential difference does the generator operate?",
+    "options": [
+      "260 volts",
+      "280 volts",
+      "220 volts",
+      "240 volts",
+      "320 volts",
+      "200 volts",
+      "150 volts",
+      "300 volts",
+      "180 volts",
+      "400 volts"
+    ],
+    "answer": "D",
+    "subject": "physics",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_physics_12",
+    "question": "A bungee cord is 30.0 m long and, when stretched a distance x, it exerts a restoring force of magnitude kx. Your father-in-law (mass 95.0 kg) stands on a platform 45.0 m above the ground, and one end of the cord is tied securely to his ankle and the other end to the platform. You have promised him that when he steps off the platform he will fall a maximum distance of only 41.0 m before the cord stops him. You had several bungee cords to select from, and you tested them by stretching them out, tying one end to a tree, and pulling on the other end with a force of 380.0 N. When you do this, what distance (in m) will the bungee cord that you should select have stretched?",
+    "options": [
+      "1.0",
+      "0.602",
+      "1.8",
+      "0.45",
+      "1.2",
+      "1.5",
+      "0.8",
+      "0.3",
+      "0.95",
+      "0.75"
+    ],
+    "answer": "B",
+    "subject": "physics",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_physics_13",
+    "question": "The two moons of Mars are called ...",
+    "options": [
+      "Deimos and Triton",
+      "Phobos and Demos",
+      "Triton and Deimos",
+      "Phobos and Deimos",
+      "Tritos and Desmos",
+      "Phobos and Mars II",
+      "Phobos and Tritos",
+      "Phobos and Triton",
+      "Tritos and Deimos",
+      "Deimos and Mars I"
+    ],
+    "answer": "D",
+    "subject": "physics",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_physics_14",
+    "question": "Point charges of $+6.0 \\mu \\mathrm{C}$ and $-4.0 \\mu \\mathrm{C}$ are placed on an $x$ axis, at $x=8.0 \\mathrm{~m}$ and $x=16 \\mathrm{~m}$, respectively. What charge must be placed at $x=24 \\mathrm{~m}$ so that any charge placed at the origin would experience no electrostatic force?\n",
+    "options": [
+      "$-50$ $\\mu \\mathrm{C}$",
+      "$-40$ $\\mu \\mathrm{C}$",
+      "$-30$ $\\mu \\mathrm{C}$",
+      "$+30$ $\\mu \\mathrm{C}$",
+      "$+60$ $\\mu \\mathrm{C}$",
+      "$-60$ $\\mu \\mathrm{C}$",
+      "$+45$ $\\mu \\mathrm{C}$",
+      "$+50$ $\\mu \\mathrm{C}$",
+      " $-45$ $\\mu \\mathrm{C}$",
+      "$-75$ $\\mu \\mathrm{C}$"
+    ],
+    "answer": "I",
+    "subject": "physics",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_physics_15",
+    "question": "When the color yellow is seen on your TV screen the phosphors being activated on the screen are",
+    "options": [
+      "blue and yellow.",
+      "red and green.",
+      "blue and red.",
+      "red and blue.",
+      "all colors equally.",
+      "mainly green.",
+      "mainly blue.",
+      "green and yellow.",
+      "mainly yellow.",
+      "blue and green."
+    ],
+    "answer": "B",
+    "subject": "physics",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_history_1",
+    "question": "This question refers to the following information.\n\"Those whose condition is such that their function is the use of their bodies and nothing better can be expected of them, those, I say, are slaves of nature. It is better for them to be ruled thus.\"\nJuan de Sepulveda, Politics, 1522\n\"When Latin American nations gained independence in the 19th century, those two strains converged, and merged with an older, more universalist, natural law tradition. The result was a distinctively Latin American form of rights discourse. Paolo Carozza traces the roots of that discourse to a distinctive application, and extension, of Thomistic moral philosophy to the injustices of Spanish conquests in the New World. The key figure in that development seems to have been Bartolom\u00e9 de Las Casas, a 16th-century Spanish bishop who condemned slavery and championed the cause of Indians on the basis of a natural right to liberty grounded in their membership in a single common humanity. 'All the peoples of the world are humans,' Las Casas wrote, and 'all the races of humankind are one.' According to Brian Tierney, Las Casas and other Spanish Dominican philosophers laid the groundwork for a doctrine of natural rights that was independent of religious revelation 'by drawing on a juridical tradition that derived natural rights and natural law from human rationality and free will, and by appealing to Aristotelian philosophy.'\"\nMary Ann Glendon, \"The Forgotten Crucible: The Latin American Influence on the Universal Human Rights Idea,\u201d 2003\nMaize cultivation among the native peoples of Mexico is most analogous to which of the following?",
+    "options": [
+      "Buffalo hunting among the Lakota Sioux",
+      "Whaling by the Makah",
+      "Seal hunting among the Inuit",
+      "Salmon fishing among the Chinook",
+      "Cattle herding by the Apache",
+      "Wolf domestication by the Algonquians",
+      "Mixed agriculture among the Iroquois",
+      "Deer hunting by the Seminole"
+    ],
+    "answer": "G",
+    "subject": "history",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_history_2",
+    "question": "This question refers to the following information.\n\"We found that not only was it a civil war, an effort by a people who had for years been seeking their liberation from any colonial influence whatsoever, but also we found that the Vietnamese whom we had enthusiastically molded after our own image were hard put to take up the fight against the threat we were supposedly saving them from.\n\"We found most people didn't even know the difference between communism and democracy. They only wanted to work in rice paddies without helicopters strafing them and bombs with napalm burning their villages and tearing their country apart. They wanted everything to do with the war, particularly with this foreign presence of the United States of America, to leave them alone in peace, and they practiced the art of survival by siding with whichever military force was present at a particular time, be it Viet Cong, North Vietnamese or American.\"\nJohn Kerry, 1971\nThe conflict described above is most likely a result of which of the following doctrines?",
+    "options": [
+      "Wilsonianism",
+      "Containment",
+      "Big-stick diplomacy",
+      "Monroe Doctrine",
+      "Isolationism",
+      "Domino Theory",
+      "Marshall Plan",
+      "Truman Doctrine",
+      "Manifest Destiny",
+      "Imperialism"
+    ],
+    "answer": "B",
+    "subject": "history",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_history_3",
+    "question": "Homo erectus was:",
+    "options": [
+      "a stable, long-lived species.",
+      "the first hominid to stand \u201cerect\u201d and walk upright.",
+      "a hominid species that was completely herbivorous.",
+      "the first hominid to develop agriculture.",
+      "an unsuccessful, short-lived species.",
+      "a hominid species that lived primarily in trees.",
+      "a species that coexisted with modern humans.",
+      "the first hominid to develop complex language.",
+      "the first hominid to make and use stone tools."
+    ],
+    "answer": "A",
+    "subject": "history",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_history_4",
+    "question": "This question refers to the following information.\n\"We have witnessed for more than a quarter of a century the struggles of the two great political parties for power and plunder, while grievous wrongs have been inflicted upon the suffering people. We charge that the controlling influences dominating both these parties have permitted the existing dreadful conditions to develop without serious effort to prevent or restrain them. Neither do they now promise us any substantial reform. They have agreed together to ignore, in the coming campaign, every issue but one. They propose to drown the outcries of a plundered people with the uproar of a sham battle over the tariff, so that capitalists, corporations, national banks, rings, trusts, watered stock, the demonetization of silver and the oppressions of the usurers may all be lost sight of. They propose to sacrifice our homes, lives, and children on the altar of mammon; to destroy the multitude in order to secure corruption funds from the millionaires.\n\"Assembled on the anniversary of the birthday of the nation, and filled with the spirit of the grand general and chief who established our independence, we seek to restore the government of the Republic to the hands of 'the plain people,' with which class it originated. We assert our purposes to be identical with the purposes of the National Constitution; to form a more perfect union and establish justice, insure domestic tranquillity, provide for the common defence, promote the general welfare, and secure the blessings of liberty for ourselves and our posterity.\"\nPopulist Party Platform, 1892\nWhich one of the following political movements most closely shared many of the goals outlined by the Populist Party?",
+    "options": [
+      "The Tea Party movement of the early 2000s",
+      "Jacksonian Democracy of the early 1800s",
+      "Neoconservatism of the 1980s",
+      "Progressivism of the early 1900s",
+      "Federalism of the late 1700s",
+      "The New Deal policies of the 1930s",
+      "The Civil Rights movement of the 1960s",
+      "Isolationism of the early 1900s",
+      "Socialism of the late 1800s",
+      "The Counterculture movement of the 1960s"
+    ],
+    "answer": "D",
+    "subject": "history",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_history_5",
+    "question": "This question refers to the following information.\nAt the peak of their power, the domains of the Mongol khans, or rulers, made up a vast realm in which once-hostile peoples lived together in peace and virtually all religions were tolerated. . . . The law code first promulgated by Chinggis Khan ordered human interaction. The result was an important new stage in international contact. From eastern Europe to southern China, merchants and travelers could move across the well-policed Mongol domains without fear for their lives or property. The great swath of Mongol territory that covered or connected most of Europe, Asia, and the Middle East served as a bridge between the civilizations of the Eastern Hemisphere. The caravans and embassies that crossed the Mongol lands transmitted new food, inventions, and ideas from one civilized pool to others and from civilized pools to the nomadic peoples who served as intermediaries. Secure trade routes made for prosperous merchants and wealthy, cosmopolitan cities. They also facilitated the spread of foods [and] inventions . . . a major force for economic and social development and the enhancement of civilized life.\n\u2014Robert Guisepi, 1992\nWhich of the following was a long-term consequence of the Mongol conquest of Russia in the 1200s?",
+    "options": [
+      "Russia developed a centralized bureaucracy.",
+      "The Russian language was replaced by Mongolian.",
+      "Russia benefited by becoming the administrative center of Mongol political activity.",
+      "Mongol law code was fully adopted in Russia.",
+      "Russia was excluded from Western European developments (like the Renaissance).",
+      "Islam became the dominant religion of Russia.",
+      "Russia's population significantly declined due to Mongol invasions.",
+      "Russia became the cultural center of Mongol civilization."
+    ],
+    "answer": "E",
+    "subject": "history",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_history_6",
+    "question": "This question refers to the following information.\nThe following quote is from Voltaire in response to the 1755 Lisbon earthquake.\nMy dear sir, nature is very cruel. One would find it hard to imagine how the laws of movement cause such frightful disasters in the best of possible worlds. A hundred thousand ants, our fellows, crushed all at once in our ant-hill, and half of them perishing, no doubt in unspeakable agony, beneath the wreckage from which they cannot be drawn. Families ruined all over Europe, the fortune of a hundred businessmen, your compatriots, swallowed up in the ruins of Lisbon. What a wretched gamble is the game of human life! What will the preachers say, especially if the palace of the Inquisition is still standing? I flatter myself that at least the reverend father inquisitors have been crushed like others. That ought to teach men not to persecute each other, for while a few holy scoundrels burn a few fanatics, the earth swallows up one and all.\n\u2014Voltaire, in a letter, 1755\nThe ideas expressed by Voltaire, above, best illustrate which of the following characteristics of Enlightenment intellectuals?",
+    "options": [
+      "Many believed in the necessity of preserving the traditional religious doctrines.",
+      "Most rejected religion altogether and adopted atheism as the only credo of a rational man.",
+      "They were largely disconnected from the realities of the common people.",
+      "They endorsed the absolute power of the monarchies and aristocracies.",
+      "They believed that human suffering and disasters are inevitable and justified.",
+      "They rejected the idea of scientific discoveries having any impact on social and cultural issues.",
+      "Most actively advocated for the abolition of all forms of governance.",
+      "They utilized new methods of communicating their ideas, such as salons and inexpensive printed pamphlets.",
+      "Many believed that the new scientific discoveries justified a more tolerant and objective approach to social and cultural issues.",
+      "Many were accomplished scientists, who added important pieces to human understanding of the universe."
+    ],
+    "answer": "I",
+    "subject": "history",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_history_7",
+    "question": "This question refers to the following information.\n\"XI. As the present sciences are useless for the discovery of effects, so the present system of logic is useless for the discovery of the sciences.\nXIX. There are and can exist but two ways of investigating and discovering truth. The one hurries on rapidly from the senses and particulars to the most general axioms, and from them, as principles and their supposed indisputable truth, derives and discovers the intermediate axioms. This is the way now in use. The other constructs its axioms from the senses and particulars, by ascending continually and gradually, till it finally arrives at the most general axioms, which is the true but unattempted way.\nXXII. Each of these two ways begins from the senses and particulars, and ends in the greatest generalities&\u2026\nXXXVI. We have but one simple method of delivering our sentiments, namely, we must bring men to particulars and their regular series and order, and they must for a while renounce their notions, and begin to form an acquaintance with things.\"\nFrancis Bacon, English philosopher and essayist, Novum Organum, 1620\nBy the 1800s, the method of empirical reasoning reflected in the passage had undergone which of the following changes?",
+    "options": [
+      "It had been expanded upon to include non-empirical forms of reasoning.",
+      "It had become a core principle of European culture.",
+      "It had stagnated to the point that the common person had begun to search for a new organizing principle of life.",
+      "It was only used in select areas of academic study.",
+      "It had been replaced entirely by a different method of reasoning.",
+      "It had become so widely accepted that it was no longer questioned.",
+      "It had weakened to the point of irrelevance.",
+      "It had been refined and changed by so many people that it had become unrecognizable to those such as Bacon who had pioneered it.",
+      "It had been altered to incorporate religious beliefs into the scientific process.",
+      "It had been completely dismissed by the scientific community."
+    ],
+    "answer": "B",
+    "subject": "history",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_history_8",
+    "question": "This question refers to the following information.\nSource 1:\n\"Moreover, Sir, in our Kingdoms there is another great inconvenience which is of little service to God, and this is that many of our people, keenly desirous as they are of the wares and things of your Kingdoms, which are brought here by your people, and in order to satisfy their voracious appetite, seize many of our people, freed and exempt men, and very often it happens that they kidnap even noblemen and our relatives, and take them to be sold to the white men who are in our kingdoms.\"\nLetter from King Afonso I of Kongo to King John III of Portugal, 1526\nSource 2:\n\"This expedition has cost us much: it would be unreasonable to send it home with empty hands. Although our [principal] wish is to serve God and the pleasure of the king of Kongo, none the less you will make him understand\u2014as though speaking in our name\u2014what he should do to fill the ships, whether with slaves, or copper, or ivory.\"\nInstructions from King Manuel of Portugal to his envoy in Kongo, 1512\nThe tone of the first letter best reflects which of the following developments in early modern Africa?",
+    "options": [
+      "The encouragement of European settlers in Africa",
+      "A rising interest in European political structures",
+      "Vigorous resistance to European expeditions of conquest",
+      "The consolidation of states along the Atlantic coast of Africa",
+      "The introduction of European agricultural methods in Africa",
+      "The promotion of Christianity among Africans",
+      "The acceptance of European culture and traditions",
+      "The establishment of Portuguese trading posts along the coastline",
+      "A growing dependence on trade with Europe for manufactured goods",
+      "A diplomatic alliance with Portugal"
+    ],
+    "answer": "I",
+    "subject": "history",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_history_9",
+    "question": "This question refers to the following information.\n\"In 1500 that work appeared which Erasmus had written after his misfortune at Dover, and had dedicated to Mountjoy, the Adagiorum Collectanea. It was a collection of about eight hundred proverbial sayings drawn from the Latin authors of antiquity and elucidated for the use of those who aspired to write an elegant Latin style. In the dedication Erasmus pointed out the profit an author may derive, both in ornamenting his style and in strengthening his argumentation, from having at his disposal a good supply of sentences hallowed by their antiquity. He proposes to offer such a help to his readers. What he actually gave was much more. He familiarized a much wider circle than the earlier humanists had reached with the spirit of antiquity.\nUntil this time the humanists had, to some extent, monopolized the treasures of classic culture, in order to parade their knowledge of which the multitude remained destitute, and so to become strange prodigies of learning and elegance. With his irresistible need of teaching and his sincere love for humanity and its general culture, Erasmus introduced the classic spirit, in so far as it could be reflected in the soul of a sixteenth-century Christian, among the people. Not he alone; but none more extensively and more effectively. Not among all the people, it is true, for by writing in Latin he limited his direct influence to the educated classes, which in those days were the upper classes.\nErasmus made current the classic spirit. Humanism ceased to be the exclusive privilege of a few. According to Beatus Rhenanus he had been reproached by some humanists, when about to publish the Adagia, for divulging the mysteries of their craft. But he desired that the book of antiquity should be open to all.\"\nJohan Huizinga, twentieth-century Dutch philosopher, Erasmus and the Age of Reformation, 1924\nAccording to Huizinga, Erasmus's legacy was more significant than that of earlier humanists because",
+    "options": [
+      "he wrote exclusively about religious matters",
+      "he wrote a greater number of books than his predecessors",
+      "he was the first to translate Latin proverbs into the vernacular",
+      "he was more critical of the Church than his predecessors were",
+      "he had a wider variety of interests than his predecessors had",
+      "he was less interested in the pomp and circumstance of academia",
+      "he had more support from the Church",
+      "he made the classic spirit more accessible by teaching it",
+      "he valued educating the masses more than his predecessors had",
+      "he wrote in a language that was understandable to the masses, unlike his predecessors"
+    ],
+    "answer": "I",
+    "subject": "history",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_history_10",
+    "question": "This question refers to the following information.\nAt last it seems to me that I have come to understand why man is the most fortunate of all creatures and consequently worthy of all admiration. \u2026 The nature of all other beings is limited. \u2026 Imagine! The great generosity of God! The happiness of man! To man it is allowed to be whatever he chooses to be!\nPico della Mirandola, Oration on the Dignity of Man, 1486\nFrom the passage, one may infer that Pico rejected the notion",
+    "options": [
+      "that man should not aspire to be whatever he chooses to be",
+      "that God intended man to strive to achieve",
+      "that all beings share the same nature",
+      "that God is indifferent to man's happiness",
+      "that humans are God's equals",
+      "that man was a unique kind of creature",
+      "that man has limited potential",
+      "that man is unworthy of admiration",
+      "that man has no control over his own destiny",
+      "that man is the least fortunate of all creatures"
+    ],
+    "answer": "H",
+    "subject": "history",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_history_11",
+    "question": "Pizarro was able to subdue the entire Inca empire largely because:",
+    "options": [
+      "the Incas were suffering from a plague when Pizarro arrived.",
+      "the empire had never won the allegiance of the peoples it had conquered.",
+      "the Incas were already weakened by a civil war.",
+      "the Incas were expecting Pizarro and willingly surrendered to him.",
+      "he arrived with a superior force of more than 80,000 soldiers.",
+      "Pizarro used advanced technology that the Incas could not comprehend.",
+      "his horses and guns frightened the Incas into submission.",
+      "Pizarro had the support of other native tribes who were enemies of the Incas.",
+      "he was such a brilliant military strategist.",
+      "Pizarro manipulated the Incas into believing he was a god."
+    ],
+    "answer": "B",
+    "subject": "history",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_history_12",
+    "question": "This question refers to the following information.\nRead the following quote.\nI had now decided beyond all question that there existed in the heavens three stars wandering about Jupiter as do Venus and Mercury about the sun, and this became plainer than daylight from observations on similar occasions which followed. Nor were there just three such stars; four wanderers complete their revolutions about Jupiter, and of their alterations as observed more precisely later on we shall give a description here. Also I measured the distances between them by means of the telescope. . . .\nSuch are the observations concerning the four Medicean planets recently first discovered by me, and although from this data their periods have not yet been reconstructed in numerical form, it is legitimate at least to put in evidence some facts worthy of note. Above all, since they sometimes follow and sometimes precede Jupiter by the same intervals, and they remain within very limited distances either to east or west of Jupiter, accompanying that planet in both its retrograde and direct movements in a constant manner, no one can doubt that they complete their revolutions about Jupiter and at the same time effect all together a twelve-year period about the center of the universe.\n\u2014Galileo Galilei, 1610\nWhich of the following conclusions drawn in part from the observations above was the most revolutionary over time?",
+    "options": [
+      "The heavens are occupied by bodies revolving around each other rather than by God alone.",
+      "The sun is the center of the universe.",
+      "The Earth is but one tiny planet in an infinite universe or even multiverse.",
+      "There are only four planets in the universe.",
+      "Jupiter is the center of the universe.",
+      "The Earth is not the center of the universe.",
+      "There were four smaller stars that seemed to move around Jupiter.",
+      "The universe is a finite space.",
+      "Stars are smaller than planets.",
+      "Venus and Mercury do not revolve around the sun."
+    ],
+    "answer": "C",
+    "subject": "history",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_history_13",
+    "question": "The \u201cLion Man\u201d from Hohlenstein-Stadel cave is an example of:",
+    "options": [
+      "mobiliary art.",
+      "long-distance trade of exotic raw materials.",
+      "parietal art.",
+      "a Venus figurine."
+    ],
+    "answer": "A",
+    "subject": "history",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_history_14",
+    "question": "The Lake Forest Archaic tradition relied on ____________ resources; the Maritime Archaic hunted ___________ creatures.",
+    "options": [
+      "pelagic; lacustrine",
+      "pelagic; littoral",
+      "pelagic; midden",
+      "littoral; lacustrine",
+      "midden; littoral",
+      "littoral; midden",
+      "lacustrine; midden",
+      "midden; pelagic",
+      "littoral; pelagic",
+      "lacustrine; pelagic"
+    ],
+    "answer": "J",
+    "subject": "history",
+    "benchmark": "mmlu_pro"
+  },
+  {
+    "question_id": "mmlu_history_15",
+    "question": "Mayan art and iconography prominently feature depictions of:",
+    "options": [
+      "mutilation and violence.",
+      "stars and comets.",
+      "infants and children.",
+      "modern technologies.",
+      "domesticated animals.",
+      "love and sex.",
+      "landscapes and sceneries.",
+      "everyday household activities.",
+      "abstract geometric shapes."
+    ],
+    "answer": "A",
+    "subject": "history",
+    "benchmark": "mmlu_pro"
+  }
+]

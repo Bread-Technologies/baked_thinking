@@ -1,0 +1,31 @@
+# Bread configuration mapping
+# Auto-generated - do not edit manually
+
+[REPO]
+name=baked_thinking
+
+[PROMPT\.teacher]
+hash=de97246b3fe8c65439a0657f5649ee1011a03f58400f9bbe83876cc96631b9f9
+prompt_name=prompt_de97246b3fe8c654
+
+[PROMPT\.student]
+hash=2e6b7a4f61149e18912ad402d91cdd827e3fd7a7535a9f2506e197b0af9f52c9
+prompt_name=prompt_2e6b7a4f61149e18
+
+[TARGET]
+hash=faa2d563773e051cf131f6a1e8db9d4a9fc7b076dd3265456dc24ee57cffc04c
+target_name=metacognitive_thinking_support_v3_faa2d563773e051c
+
+[BAKE]
+hash=87830a3149d227853af0bf14f984654dd705e23632dad631ed5a7e6dc230cb39
+bake_name=metacognitive_thinking_support_v3_87830a3149d22785
+
+[PARENT_MODEL]
+model_name=neelsardana/baked_thinking/metacognitive_thinking_ALWAYS_372f9448560bf8b1/224
+
+[RECIPE]
+base_model=Qwen/Qwen3-32B
+recipe_file=recipe.yml
+
+[RECIPE\.BAKES\.metacognitive_thinking_v1_0\.01_372f9448560bf8b1]
+model_names="[\"neelsardana/baked_thinking/metacognitive_thinking_v1_0.01_372f9448560bf8b1/224\"]"

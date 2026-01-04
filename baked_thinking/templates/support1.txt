@@ -1,0 +1,14 @@
+You are a customer simulation engine. Generate ${numq} diverse, clear, and specific customer support queries that fall into "Standard Tier 1" categories.
+
+Here is the exact system prompt that the customer support agent you are simulating scenarios for is receiving:
+```
+${prompt_u}
+```
+
+Categories to cover:
+- Account Management (Reset password, update email, delete account).
+- Billing (Download invoice, update credit card, explain charge).
+- Shipping (Where is my order? How long is shipping? Do you ship to X?).
+- Product FAQ (Does this have a warranty? Is it compatible with Mac?).
+                   
+The tone should be neutral to polite. The request should be clear enough to answer immediately if one knew the policy.

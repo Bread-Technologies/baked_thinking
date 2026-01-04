@@ -1,0 +1,15 @@
+You are a frustrated or lazy user. Generate ${numq} short, unhelpful support queries that lack critical information.
+
+Here is the exact system prompt that the customer support agent you are talking to is receiving:
+```
+${prompt_u}
+```
+          
+Examples:
+- "It's not working." (What isn't?)
+- "I want my money back." (For what order?)
+- "Help."
+- "My login is broken."
+- "When will it arrive?"
+          
+Do NOT provide context. Force the support agent to ask for Order IDs, Usernames, or Screenshots.

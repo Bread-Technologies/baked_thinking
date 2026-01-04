@@ -1,0 +1,3 @@
+# Always use incoming branch's version for bgit files during merge
+.bread merge=keepTheirs
+recipe.yml merge=keepTheirs
